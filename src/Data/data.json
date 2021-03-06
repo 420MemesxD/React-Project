@@ -1,0 +1,61 @@
+[{
+		"id": 1,
+		"name": "Call of Duty",
+		"Genre": "First Person Shooter",
+		"rating": "8/10"
+	},
+	{
+		"id": 2,
+		"name": "Leauge of Legends",
+		"Genre": "MOBA",
+		"rating": "9/10"
+	},
+	{
+		"id": 3,
+		"name": "Valhiem",
+		"Genre": "Open World",
+		"rating": "10/10"
+	},
+	{
+		"id": 4,
+		"name": "Valorant",
+		"Genre": "First Person Shooter",
+		"rating": "8/10"
+	},
+	{
+		"id": 5,
+		"name": "Escape from Tarkov",
+		"Genre": "First Person Shooter",
+		"rating": "7/10"
+	},
+	{
+		"id": 6,
+		"name": "Counter Strike Global Offensive",
+		"Genre": "First Person Shooter",
+		"rating": "8/10"
+	},
+	{
+		"id": 7,
+		"name": "Rust",
+		"Genre": "Open World",
+		"rating": "6/10"
+	},
+	{
+		"id": 8,
+		"name": "7 Days to Die",
+		"Genre": "Zombie",
+		"rating": "7/10"
+	},
+	{
+		"id": 9,
+		"name": "Sea of Theives",
+		"Genre": "Open World",
+		"rating": "9/10"
+	},
+	{
+		"id": 10,
+		"name": "Roblox",
+		"Genre": "All",
+		"rating": "8/10"
+	}
+]
