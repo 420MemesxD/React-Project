@@ -35,7 +35,6 @@ const Data = () => {
 
   const sort = event => {
     event.persist();
-    const regex = new RegExp();
     axios.get('https://420memesxd.github.io/json-for-javascript/data.json')
     .then(resp => {
       setFilter([...dataSet]);
